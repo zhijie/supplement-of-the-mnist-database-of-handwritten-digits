@@ -1,0 +1,1 @@
+bmp formats for the original mnist database of handwritten digits.original database is here too.
